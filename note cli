@@ -1,0 +1,3 @@
+show run | s route - show ip in routers
+config t
+no ip route ( then paste the mali )
