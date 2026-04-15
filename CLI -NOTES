@@ -1,3 +1,7 @@
 show run | s route - show ip in routers
 config t
 no ip route ( then paste the mali )
+
+windows: route print
+linux: netstat -r
+cisco: show ip route
